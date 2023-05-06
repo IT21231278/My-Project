@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Manageprofile</string>
+
+    <string-array name="qty">
+        <item>Select Qty</item>
+        <item>50g</item>
+        <item>100g</item>
+        <item>250g</item>
+        <item>500g</item>
+        <item>1Kg</item>
+        <item>2Kg</item>
+        <item>5Kg</item>
+        <item>10Kg</item>
+        <item>50Kg</item>
+    </string-array>
+</resources>
+
